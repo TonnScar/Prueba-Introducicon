@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+    background-color: aqua;
+    padding: 5px;
+}
+
+.p {
+    background-color: blueviolet;
+}
+
+footer {
+    margin-top: 80vh;
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;}
+a:hover{
+    color: antiquewhite;
+    background-color: rgb(41, 36, 36);
+}
